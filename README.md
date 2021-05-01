@@ -12,11 +12,11 @@ Developed Foreign Exchange APIs. Currencies are taken from https://ratesapi.io/.
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `from` | `ENUM` | Currency |
+| `source` | `ENUM` | Currency |
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `to` | `ENUM` | Currency |
+| `target` | `ENUM` | Currency |
 
 #### GET Conversion API that returns the amount in target currency.
 
