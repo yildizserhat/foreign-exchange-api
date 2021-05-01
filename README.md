@@ -1,7 +1,7 @@
 
 # Foreign Exchange
 
-Developed Foreign Exchange APIs. Currencies are taken from https://ratesapi.io/.
+Developed Foreign Exchange APIs with Spring Boot and h2 database. Currencies are taken from https://ratesapi.io/.
 ## API Reference
 
 #### GET Exchange Rate API
