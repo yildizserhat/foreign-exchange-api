@@ -21,10 +21,10 @@ import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
 @RunWith(MockitoJUnitRunner.class)
-public class ExchangeServiceTest {
+public class ExchangeServiceImplTest {
 
     @InjectMocks
-    private ExchangeService service;
+    private ExchangeServiceImpl service;
 
     @Mock
     private ConversionRepository repository;
